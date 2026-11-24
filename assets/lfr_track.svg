@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" role="img" aria-label="Animated line following robot">
+<rect width="800" height="260" rx="16" fill="#0F0F10"/>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#E01B24"/></linearGradient></defs>
+<path id="trk" d="M 40 190 C 160 190 160 70 290 70 S 420 190 540 190 S 660 70 760 70" fill="none" stroke="#2a2a2d" stroke-width="22" stroke-linecap="round"/>
+<path d="M 40 190 C 160 190 160 70 290 70 S 420 190 540 190 S 660 70 760 70" fill="none" stroke="url(#g)" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 10" opacity=".9"/>
+<path d="M 40 190 C 160 190 160 70 290 70 S 420 190 540 190 S 660 70 760 70" fill="none" stroke="#E01B24" stroke-width="4" stroke-linecap="round" stroke-dasharray="90 900" opacity=".9">
+  <animate attributeName="stroke-dashoffset" from="90" to="-900" dur="9s" repeatCount="indefinite"/></path>
+<g>
+  <rect x="-16" y="-10" width="32" height="20" rx="5" fill="#E01B24" stroke="#fff" stroke-width="1.5"/>
+  <rect x="-12" y="-14" width="10" height="4" rx="1" fill="#fff"/><rect x="-12" y="10" width="10" height="4" rx="1" fill="#fff"/>
+  <circle cx="18" cy="-6" r="2.5" fill="#7CFFB2"><animate attributeName="opacity" values="1;.2;1" dur=".6s" repeatCount="indefinite"/></circle>
+  <circle cx="18" cy="0" r="2.5" fill="#7CFFB2"><animate attributeName="opacity" values=".2;1;.2" dur=".6s" repeatCount="indefinite"/></circle>
+  <circle cx="18" cy="6" r="2.5" fill="#7CFFB2"><animate attributeName="opacity" values="1;.2;1" dur=".6s" repeatCount="indefinite"/></circle>
+  <animateMotion dur="9s" repeatCount="indefinite" rotate="auto"><mpath href="#trk"/></animateMotion>
+</g>
+<text x="40" y="230" fill="#8a8a8f" font-family="monospace" font-size="14">START</text>
+<text x="730" y="40" fill="#8a8a8f" font-family="monospace" font-size="14" text-anchor="end">FINISH</text>
+<text x="400" y="30" fill="#fff" font-family="monospace" font-size="15" text-anchor="middle" letter-spacing="3">AMOTRON · LINE FOLLOWING ROBOT</text>
+</svg>

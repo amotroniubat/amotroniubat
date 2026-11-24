@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 336" role="img" aria-label="LFR project progress">
+<rect width="720" height="336" rx="16" fill="#0F0F10"/>
+<text x="30" y="36" fill="#fff" font-family="monospace" font-size="16" letter-spacing="2">LFR PROJECT PROGRESS</text>
+<text x="30" y="74" fill="#d4d4d8" font-family="monospace" font-size="13">Team formation</text>
+<rect x="330" y="62" width="300" height="14" rx="7" fill="#2a2a2d"/>
+<rect x="330" y="62" width="0" height="14" rx="7" fill="#E01B24"><animate attributeName="width" from="0" to="300" dur="1.6s" begin="0.0s" fill="freeze"/></rect>
+<text x="650" y="74" fill="#fff" font-family="monospace" font-size="13">100%</text>
+<text x="30" y="102" fill="#d4d4d8" font-family="monospace" font-size="13">Project planning</text>
+<rect x="330" y="90" width="300" height="14" rx="7" fill="#2a2a2d"/>
+<rect x="330" y="90" width="0" height="14" rx="7" fill="#E01B24"><animate attributeName="width" from="0" to="300" dur="1.6s" begin="0.2s" fill="freeze"/></rect>
+<text x="650" y="102" fill="#fff" font-family="monospace" font-size="13">100%</text>
+<text x="30" y="130" fill="#d4d4d8" font-family="monospace" font-size="13">Research &amp; design</text>
+<rect x="330" y="118" width="300" height="14" rx="7" fill="#2a2a2d"/>
+<rect x="330" y="118" width="0" height="14" rx="7" fill="#E01B24"><animate attributeName="width" from="0" to="300" dur="1.6s" begin="0.4s" fill="freeze"/></rect>
+<text x="650" y="130" fill="#fff" font-family="monospace" font-size="13">100%</text>
+<text x="30" y="158" fill="#d4d4d8" font-family="monospace" font-size="13">Robot assembly</text>
+<rect x="330" y="146" width="300" height="14" rx="7" fill="#2a2a2d"/>
+<rect x="330" y="146" width="0" height="14" rx="7" fill="#E01B24"><animate attributeName="width" from="0" to="0" dur="1.6s" begin="0.6000000000000001s" fill="freeze"/></rect>
+<text x="650" y="158" fill="#fff" font-family="monospace" font-size="13">0%</text>
+<text x="30" y="186" fill="#d4d4d8" font-family="monospace" font-size="13">Sensor integration</text>
+<rect x="330" y="174" width="300" height="14" rx="7" fill="#2a2a2d"/>
+<rect x="330" y="174" width="0" height="14" rx="7" fill="#E01B24"><animate attributeName="width" from="0" to="0" dur="1.6s" begin="0.8s" fill="freeze"/></rect>
+<text x="650" y="186" fill="#fff" font-family="monospace" font-size="13">0%</text>
+<text x="30" y="214" fill="#d4d4d8" font-family="monospace" font-size="13">Programming &amp; calibration</text>
+<rect x="330" y="202" width="300" height="14" rx="7" fill="#2a2a2d"/>
+<rect x="330" y="202" width="0" height="14" rx="7" fill="#E01B24"><animate attributeName="width" from="0" to="0" dur="1.6s" begin="1.0s" fill="freeze"/></rect>
+<text x="650" y="214" fill="#fff" font-family="monospace" font-size="13">0%</text>
+<text x="30" y="242" fill="#d4d4d8" font-family="monospace" font-size="13">Track testing</text>
+<rect x="330" y="230" width="300" height="14" rx="7" fill="#2a2a2d"/>
+<rect x="330" y="230" width="0" height="14" rx="7" fill="#E01B24"><animate attributeName="width" from="0" to="0" dur="1.6s" begin="1.2000000000000002s" fill="freeze"/></rect>
+<text x="650" y="242" fill="#fff" font-family="monospace" font-size="13">0%</text>
+<text x="30" y="270" fill="#d4d4d8" font-family="monospace" font-size="13">Performance optimization</text>
+<rect x="330" y="258" width="300" height="14" rx="7" fill="#2a2a2d"/>
+<rect x="330" y="258" width="0" height="14" rx="7" fill="#E01B24"><animate attributeName="width" from="0" to="0" dur="1.6s" begin="1.4000000000000001s" fill="freeze"/></rect>
+<text x="650" y="270" fill="#fff" font-family="monospace" font-size="13">0%</text>
+<text x="30" y="314" fill="#fff" font-family="monospace" font-size="14" font-weight="bold">OVERALL</text>
+<rect x="330" y="302" width="300" height="16" rx="8" fill="#2a2a2d"/>
+<rect x="330" y="302" width="0" height="16" rx="8" fill="#7CFFB2"><animate attributeName="width" from="0" to="114" dur="2s" begin="1.8s" fill="freeze"/></rect>
+<text x="650" y="315" fill="#7CFFB2" font-family="monospace" font-size="14" font-weight="bold">38%</text></svg>
